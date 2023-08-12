@@ -1,0 +1,18 @@
+/* src/App.css */
+/* Add your CSS styles here */
+/* For example, you can style the navigation bar */
+nav {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 20px;
+  cursor: pointer;
+}
